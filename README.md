@@ -10,3 +10,7 @@ To run convolution_nchw.cpp
 ```
     ./conv.sh
 ```
+To run convolution_nhwc.cpp
+```
+    ./conv.sh
+```
