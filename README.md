@@ -1,1 +1,12 @@
-# convolution
+# Convolution Implementation in C++
+The repository contains convolution implementation in C++. The python script is used for validation
+# Prequisites
+- g++
+- python3
+- torch
+- numpy
+# How to run
+To run convolution_nchw.cpp
+```
+    ./conv.sh
+```
