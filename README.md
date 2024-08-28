@@ -12,5 +12,5 @@ To run convolution_nchw.cpp
 ```
 To run convolution_nhwc.cpp
 ```
-    ./conv.sh
+    ./conv_nhwc.sh
 ```
