@@ -14,3 +14,7 @@ To run convolution_nhwc.cpp
 ```
     ./conv_nhwc.sh
 ```
+To run convolution_shape_nhwc.cpp
+```
+    ./conv_shape_nhwc.sh
+```
